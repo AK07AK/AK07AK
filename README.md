@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arun Kumar
-- 👀 I’m interested in Full stack web Developer and Java Developer
+- 👀 I’m interested in Mobile application developer and Java Developer
 - 🌱 I’m currently learning JavaScript and FrameWork
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in Linkedin Arun Kumar.C
